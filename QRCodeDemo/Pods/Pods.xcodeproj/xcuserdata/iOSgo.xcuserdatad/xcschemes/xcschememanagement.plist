@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-QRCodeDemo.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-QRCodeDemoTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-QRCodeDemoUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ZBarSDK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>libqrencode.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0945C809488F4001AF5D2D1B42F55934</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>333BD126E445ECA9F7B62EEF69ABAECB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3477CD2C1059E022501F2134A33FB309</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DBFBD27F220AA348CA24305807ED050E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E429BC833DF771FE437354A4D6B03908</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
